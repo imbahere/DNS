@@ -23,8 +23,6 @@ function installQuestions() {
 	# DNS by Akmal
 	read -rp "SILA MASUKKAN DNS YANG DIBERI OLEH AKMAL@imbahere" -e -i 103.197.58.46 CLIENT_DNS_1
 
-	done
-
 	echo ""
 	echo "Okay, that was all I needed. We are ready to setup your Permanent DNS now."
 	read -n1 -r -p "Press any key to continue..."
